@@ -61,7 +61,8 @@ After building the project, you can run the application in one of the following 
 1. Using Java directly:
 
 ```
-java -cp target/test-string-duplicator-local-1.0-SNAPSHOT.jar com.example.App
+java -cp target/test-string-duplicator-1.0-SNAPSHOT.jar com.example.Main
+java -cp target/test-string-duplicator-1.0-SNAPSHOT.jar com.example.Main2
 ```
 (Ensure that the JAR file name matches the one generated in your target folder.)
 

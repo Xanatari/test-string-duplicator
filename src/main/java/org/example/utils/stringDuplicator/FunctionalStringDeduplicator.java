@@ -11,7 +11,7 @@ public class FunctionalStringDeduplicator implements Deduplicator {
      *
      * @param input The string from which duplicates should be removed
      * @return A new string without any duplicate characters
-
+     * That solution have a Funcional programing
      * Uses Java Streams to remove duplicate characters from the given string.
      * The order of first occurrences is preserved.
      *
